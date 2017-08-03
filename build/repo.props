@@ -1,5 +1,0 @@
-<Project>
-  <ItemGroup>
-    <ExcludeFromTest Include="$(RepositoryRoot)test\Kestrel.Performance\Kestrel.Performance.csproj" />
-  </ItemGroup>
-</Project>
